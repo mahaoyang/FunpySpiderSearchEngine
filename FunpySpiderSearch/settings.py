@@ -15,6 +15,8 @@ BOT_NAME = 'FunpySpiderSearch'
 SPIDER_MODULES = ['FunpySpiderSearch.spiders']
 NEWSPIDER_MODULE = 'FunpySpiderSearch.spiders'
 
+LOG_LEVEL = 'ERROR'
+
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 # USER_AGENT = 'FunpySpiderSearch (+http://www.yourdomain.com)'
 
